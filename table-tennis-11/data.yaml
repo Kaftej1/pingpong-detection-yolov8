@@ -1,0 +1,14 @@
+names:
+- '0'
+- '1'
+- '2'
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: table-tennis-53jaz
+  url: https://universe.roboflow.com/vertex-dl0xb/table-tennis-53jaz/dataset/11
+  version: 11
+  workspace: vertex-dl0xb
+test: ../test/images
+train: ../train/images
+val: ../valid/images
