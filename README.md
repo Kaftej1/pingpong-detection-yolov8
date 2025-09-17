@@ -89,3 +89,11 @@ yolo task=detect mode=predict model=runs/detect/train2/weights/best.pt source=vi
 * Improve ball tracking in **fast-motion scenarios**.
 * Add **point calculation logic** (net hits, table bounces).
 * Extend system to **other sports** (tennis, badminton).
+
+---
+
+## 📄 Project Presentation
+
+For a detailed overview of the project, including methodology, results, and future work, check the full presentation:
+
+[📥 Download Ping-Pong Detection Presentation (PDF)](docs/PingPong_Presentation.pdf)
